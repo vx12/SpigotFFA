@@ -2,3 +2,12 @@ name: FFA
 version: 1.0
 author: vx12
 main: org.vx12.ffa.FFA
+
+commands:
+  build:
+    description: Enter and exit the build mode!
+
+  spectate:
+    description: Enter and exit the spectator mode!
+
+  ffa:

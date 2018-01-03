@@ -1,0 +1,12 @@
+Config:
+  prefix: '&8[&3FFA&8] '
+  joinMessage: '&9[player] &7joined FFA!'
+  quitMessage: '&9[player] &7left FFA!'
+  killMessage: '&7You killed &c[player]&7!'
+  getKilledMessage: '&7You have been &ckilled by &c[killer]'
+  enterBuildMessage: '&7You entered the &aBuildmode!'
+  exitBuildMessage: '&7You left the &aBuildmode!'
+  noPermMessage: '&7Insufficient permissions.'
+  enterSpecMode: '&7You are now able to &espectate &7players!'
+  exitSpecMode: '&7You are no longer able to &espectate &7players!'
+  kickedFromSpec: '&7You have been kicked out of the &eSpectate-Mode&7!'
